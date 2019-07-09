@@ -1,0 +1,31 @@
+ID,De
+game_title,FUNNY TILES
+settings_head,EINSTELLUNGEN
+timer_but,ZEITMODUS
+moves_but,BEWEGUNGSMODUS
+dzen_but,ZEN-MODUS
+music_but,MUSIK
+sound_but,TON
+save_but,FORTSCHRITT SPEICHERN
+shop_but,LADEN
+lang_but,SPRACHE
+booster_1_popup,"Wähle ein Monster, das du zerstören möchtest."
+booster_1_new,Booster zerstören alle ausgewählten Monster auf dem Spielfeld. Wähle ein Monster.
+booster_2_new,Booster erzeugt ein neues Spielfeld. Booster verwenden.
+yes_but,Lasst uns anfangen!
+no_but,ABBRECHEN
+quit_pop,Willst du das Spiel beenden?
+goShop_pop,Nicht genug Booster. Zum Laden gehen?
+loading,Laden....
+lose,Du hast verloren!\n Ihre Ergebnisse: {0}\n
+win,Gut gemacht!\n Sie haben Bonuspunkte erhalten: {0}\n
+moves,Bewegungen:
+win_dzen,Herzlichen glückwunsch!\n Level abgeschlossen!
+no_internet,Keine Internetverbindung
+scores,Ergebnis:
+super,Genial!
+got_boosters,Du hast Booster.
+well_done,Gut gemacht!
+got_crystals,Du hast die Kristalle.
+time_bonus,Sie erhalten Bonuspunkte für die verbleibenden Zeit.
+moves_bonus,Sie erhalten Bonuspunkte für die verbleibenden Züge.

@@ -1,0 +1,31 @@
+ID,Fr
+game_title,FUNNY TILES
+settings_head,PARAMÈTRES
+timer_but,MODE CHRONOMÉTRÉ
+moves_but,MODE DÉPLACEMENTS
+dzen_but,MODE ZEN
+music_but,MUSIQUE
+sound_but,SON
+save_but,SAUVEGARDER PROGRESSION
+shop_but,MAGASIN
+lang_but,LANGUE
+booster_1_popup,Sélectionner un monstre à détruire.
+booster_1_new,Le bonus détruit tous les monstres sélectionnés sur le terrain. Sélectionner un monstre.
+booster_2_new,Le bonus génère un nouveau terrain de jeu. Utiliser le bonus.
+yes_but,C'est parti !
+no_but,ANNULER
+quit_pop,Voulez-vous quitter le jeu ?
+goShop_pop,Pas assez de boosters. Aller au magasin ?
+loading,Chargement...
+lose,Tu as perdu !\n Vos scores:  {0}\n
+win,Bien joué !\n Vous avez des scores en bonus: {0}\n
+moves,Coups:
+win_dzen,Félicitations !\n Niveau complété
+no_internet,Pas de connexion internet
+scores,Points:
+super,Incroyable!
+got_boosters,Vous avez des boosters.
+well_done,Bien joué !
+got_crystals,Vous avez les cristaux.
+time_bonus,Vous obtenez des points bonus pour le temps restant.
+moves_bonus,Vous obtenez des points bonus pour les mouvements restants.

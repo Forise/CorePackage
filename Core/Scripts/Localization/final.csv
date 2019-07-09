@@ -1,0 +1,29 @@
+ID,Ru,En,De,Fr,Es
+game_title,FUNNY TILES,FUNNY TILES,FUNNY TILES,FUNNY TILES,FUNNY TILES
+settings_head,НАСТРОЙКИ,SETTINGS,EINSTELLUNGEN,PARAMÈTRES,CONFIGURACIONES
+timer_but,ТАЙМЕР,TIME MODE,ZEITMODUS,MODE CHRONOMÉTRÉ,MODO DE TIEMPO
+moves_but,ХОДЫ,MOVES MODE,BEWEGUNGSMODUS,MODE DÉPLACEMENTS,MODO DE MOVIMIENTOS
+dzen_but,РЕЛАКС,ZEN MODE,ZEN-MODUS,MODE ZEN,MODO ZEN
+music_but,МУЗЫКА,MUSIC,MUSIK,MUSIQUE,MÚSICA
+sound_but,ЗВУКИ,SOUND,TON,SON,SONIDO
+save_but,СОХРАНИТЬ ПРОГРЕСС,SAVE PROGRESS,FORTSCHRITT SPEICHERN,SAUVEGARDER PROGRESSION,GUARDAR PROGRESO
+shop_but,МАГАЗИН,STORE,LADEN,MAGASIN,TIENDA
+lang_but,ЯЗЫК,LANGUAGE,SPRACHE,LANGUE,IDIOMA
+booster_1_popup,Выбери монстра для уничтожения.,Choose a monster to destroy.,"Wähle ein Monster, das du zerstören möchtest.",Sélectionner un monstre à détruire.,Elige un monstruo para destruir.
+booster_1_new,Бустер уничтожает всех выбранных монстров на поле. Выбери монстра.,Booster destroy all selected monsters on the field. Choose a monster.,Booster zerstören alle ausgewählten Monster auf dem Spielfeld. Wähle ein Monster.,Le bonus détruit tous les monstres sélectionnés sur le terrain. Sélectionner un monstre.,El potenciar destruye todos los monstruos seleccionados en el campo. Elige un monstruo.
+booster_2_new,Бустер генерирует новое игровое поле. Использовать бустер.,Booster generates new playing field. Use booster.,Booster erzeugt ein neues Spielfeld. Booster verwenden.,Le bonus génère un nouveau terrain de jeu. Utiliser le bonus.,El potenciar genera un nuevo campo de juego. Usa potenciador.
+yes_but,Приступим!,Let's start!,Lasst uns anfangen!,C'est parti !,¡Empecemos!
+no_but,Отмена,Cancel,Abbrechen,Annuler,Cancelar
+quit_pop,Выйти из игры?,Want to quit the game?,Willst du das Spiel beenden?,Voulez-vous quitter le jeu ?,¿Quieres salir del juego?
+goShop_pop,Бустеры кончились. Перейти в магазин?,Not enough boosters. Go to store?,Nicht genug Booster. Zum Laden gehen?,Pas assez de boosters. Aller au magasin ?,No hay potenciador. ¿ir a la tienda?
+loading,Загрузка...,Loading...,Laden....,Chargement...,Cargando…
+lose,Ты проиграл!\n Твой счёт: {0}\n,You lost!\n Your scores: {0}\n,Du hast verloren!\n Ihre Ergebnisse: {0}\n,Tu as perdu !\n Vos scores:  {0}\n,¡Perdiste!\n Tus puntuaciones: {0}\n
+win,Хорошая работа!\n Твои бонусные очки: {0}\n,Well done!\n You got bonus scores: {0}\n,Gut gemacht!\n Sie haben Bonuspunkte erhalten: {0}\n,Bien joué !\n Vous avez des scores en bonus: {0}\n,¡Bien hecho!\n Tienes puntajes de bonificación: {0}\n
+moves,Ходы,Moves,Bewegungen,Coups,Movimientos
+win_dzen,"Поздравляем!/n
+Уровень пройден!","Congratulations!/n
+Level completed","Herzlichen glückwunsch!/n
+Level abgeschlossen!","Félicitations !/n
+Niveau complété","¡Felicidades!/n
+Nivel completado"
+no_internet,Отсутствует соединение с интернетом,No internet connection,Keine Internetverbindung,Pas de connexion internet,No hay conexión a Internet

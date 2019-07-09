@@ -1,0 +1,31 @@
+ID,En
+game_title,FUNNY TILES
+settings_head,SETTINGS
+timer_but,TIME MODE
+moves_but,MOVES MODE
+dzen_but,ZEN MODE
+music_but,MUSIC
+sound_but,SOUND
+save_but,SAVE PROGRESS
+shop_but,STORE
+lang_but,LANGUAGE
+booster_1_popup,Choose a monster to destroy.
+booster_1_new,Booster destroy all selected monsters on the field. Choose a monster.
+booster_2_new,Booster generates new playing field. Use booster.
+yes_but,Let's start!
+no_but,CANCEL
+quit_pop,Want to quit the game?
+goShop_pop,Not enough boosters. Go to store?
+loading,Loading...
+lose,You lost!\n Your score: {0}\n
+win,Well done!\n You got bonus score: {0}\n
+moves,Moves:
+win_dzen,Congratulations!\n Level completed
+no_internet,No internet connection
+scores,Score:
+super,Awesome!
+got_boosters,You got boosters.
+well_done,Well done!
+got_crystals,You got the crystals.
+time_bonus,You get bonus points for the remaining time.
+moves_bonus,You get bonus points for the remaining moves.

@@ -1,0 +1,31 @@
+ID,Es
+game_title,FUNNY TILES
+settings_head,CONFIGURACIONES
+timer_but,MODO DE TIEMPO
+moves_but,MODO DE MOVIMIENTOS
+dzen_but,MODO ZEN
+music_but,MÚSICA
+sound_but,SONIDO
+save_but,GUARDAR PROGRESO
+shop_but,TIENDA
+lang_but,IDIOMA
+booster_1_popup,Elige un monstruo para destruir.
+booster_1_new,El potenciar destruye todos los monstruos seleccionados en el campo. Elige un monstruo.
+booster_2_new,El potenciar genera un nuevo campo de juego. Usa potenciador.
+yes_but,¡Empecemos!
+no_but,CANCELAR
+quit_pop,¿Quieres salir del juego?
+goShop_pop,No hay potenciador. ¿ir a la tienda?
+loading,Cargando…
+lose,¡Perdiste!\n Tus puntuaciones: {0}\n
+win,¡Bien hecho!\n Tienes puntajes de bonificación: {0}\n
+moves,Movimientos:
+win_dzen,¡Felicidades!\n Nivel completado
+no_internet,No hay conexión a Internet
+scores,Puntuaciones:
+super,¡Asombroso!
+got_boosters,Tienes potenciador.
+well_done,¡Bien hecho!
+got_crystals,Tienes los cristales.
+time_bonus,Obtienes puntos de bonificación por el tiempo restante.
+moves_bonus,Obtienes puntos de bonificación por los movimientos restantes.
